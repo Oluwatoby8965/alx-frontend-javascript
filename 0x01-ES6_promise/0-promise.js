@@ -1,8 +1,8 @@
 function getResponseFromAPI() {
-    return new Promise(() => {
-    });
-  }
-  
-  getResponseFromAPI();
-  
-  export default getResponseFromAPI;
+  return new Promise(() => {
+  });
+}
+
+getResponseFromAPI();
+
+export default getResponseFromAPI;
